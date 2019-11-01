@@ -21,7 +21,11 @@
     "consign": "^0.1.6",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
+<<<<<<< HEAD
     "express-validator": "^3.2.0",
     "socket.io": "^2.3.0"
+=======
+    "express-validator": "^3.2.0"
+>>>>>>> bcd805354120e5d3abcc4d926ebf6cd2d2f65f79
   }
 }
